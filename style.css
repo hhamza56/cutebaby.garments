@@ -1,0 +1,230 @@
+body{background-color: gray;}
+
+
+
+.hn{
+margin: 15px;
+padding: 15px;
+margin-left: 20px;
+
+
+}
+.ht{
+  
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+img{
+    border-radius: 5px;
+}
+
+
+
+.th{
+    background-color: black;
+    padding: 25px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.fg{
+    text-align: center;
+}
+
+
+.ik{
+    text-align: end;
+}
+
+
+.kl{font-size: 10px;
+margin-left: 25px;
+border-radius: 40px;
+
+
+
+
+
+
+
+}
+
+
+.bn{
+background-color: rgb(100, 109, 92);
+
+
+}
+
+
+
+.jm{
+    color: white;
+}
+
+
+.as{color: white;}
+
+
+
+
+
+button{
+
+
+
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+padding: 10px;
+
+
+}
+
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+button:active{
+    background-color: gray;
+}
+
+
+.dc{
+    color: white;
+    padding-bottom: 60px;
+    margin-top: 35px;
+
+
+
+
+
+}
+
+
+
+
+.lt{
+    font-size: 100px;
+    color: green;
+}
+
+
+.lt:hover{
+color: white;
+cursor: pointer;
+
+
+
+}
+
+
+.gf{
+    padding: 25px;
+    margin-top: 25px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+
+
+}
+
+
+.sc{
+    background-color: black;
+    padding: 70px;
+}
+
+.hj{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
